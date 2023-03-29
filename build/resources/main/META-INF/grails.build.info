@@ -1,0 +1,6 @@
+#Wed, 29 Mar 2023 14:21:47 -0400
+
+info.app.version=0.1
+info.app.name=missing-method-example
+grails.env=development
+info.app.grailsVersion=3.3.16
